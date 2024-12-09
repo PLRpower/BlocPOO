@@ -1,0 +1,4 @@
+Voici mon texte non-chiffré stocké dans un fichier texte.
+Quelques chiffres : 1234567890
+Quelques caractères spéciaux : !@#$%^&*()_+-=[]{}|;':",.<>?/\
+Quelques caractères accentués : éèàçùôêâîûäëïüÿö
